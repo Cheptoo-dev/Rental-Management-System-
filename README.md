@@ -1,5 +1,6 @@
 # Rental-Management-System-
 A comprehensive web-based application for managing rental properties, tenants, payments, and maintenance requests. Built with React and designed for property managers and landlords to streamline their rental business operations.
+
 ✨ Features
 
 📊 Dashboard: Real-time overview of properties, tenants, and income
@@ -58,4 +59,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 📞 Contact
 Email - cheptoo960@gmail.com
+
 Project Link: 
