@@ -121,14 +121,14 @@ Your mission control for everything rental-related. Get a bird's eye view of:
 
 </div>
 
-| 🎯 Phase | 🌟 Feature | 📅 Timeline | 🎉 Impact |
+| 🎯 Phase | 🌟 Feature | 🎉 Impact |
 |----------|------------|-------------|-----------|
-| **Phase 1** | 🔐 **Backend API Integration** | Q1 2024 | Robust data management |
-| **Phase 2** | 🔑 **User Authentication** | Q1 2024 | Secure access control |
-| **Phase 3** | 🗄️ **Database Integration** | Q2 2024 | Persistent data storage |
-| **Phase 4** | 📄 **Document Management** | Q2 2024 | Digital document handling |
-| **Phase 5** | 📧 **Email Notifications** | Q3 2024 | Automated communication |
-| **Phase 6** | 📊 **Financial Reporting** | Q3 2024 | Advanced analytics |
+| **Phase 1** | 🔐 **Backend API Integration**  | Robust data management |
+| **Phase 2** | 🔑 **User Authentication** | Secure access control |
+| **Phase 3** | 🗄️ **Database Integration** | Persistent data storage |
+| **Phase 4** | 📄 **Document Management** | Digital document handling |
+| **Phase 5** | 📧 **Email Notifications**  | Automated communication |
+| **Phase 6** | 📊 **Financial Reporting** | Advanced analytics |
 
 ---
 
